@@ -1,5 +1,8 @@
 # eslint-config-example
 
+### Installation 
+`yarn add -D codeman-lint eslint`
+
 ### Quickstart
 
 ```
